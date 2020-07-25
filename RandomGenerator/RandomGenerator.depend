@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595710097 source:c:\users\edgar\documents\proyectos\c++ proyects\hola mundo\randomgenerator\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
